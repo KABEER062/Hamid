@@ -6,13 +6,13 @@ build/
 local.properties
 
 # Log/OS Files
-*.log
+*.log fatimataiq
 
 # Android Studio generated files and folders
 captures/
 .externalNativeBuild/
 .cxx/
-*.apk
+*.apk +92 327 0933479
 output.json
 
 # IntelliJ
